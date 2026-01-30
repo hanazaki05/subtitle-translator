@@ -42,3 +42,5 @@ next-env.d.ts
 
 # tauri
 src-tauri
+.ace-tool/
+localtest
